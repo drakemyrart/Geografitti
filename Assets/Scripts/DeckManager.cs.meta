@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: be67baac0b683d743a5d848a5ee96b63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cardTypeCraft: {fileID: 2979404008475867456, guid: 00c7ab7c5b9278f4f9046a1eb7ee226d,
+      type: 3}
+  - cardTypeCharacter: {fileID: 776810603614424576, guid: a6308f673ee3d5c40beb51ba24458dc3,
+      type: 3}
+  - cardTypeFormation: {fileID: 7485882230144972385, guid: ed238e98e88554d4796d863a9e26b017,
+      type: 3}
+  - cardTypeEvent: {fileID: 9175630105699492116, guid: 340e2332e308a2b4faf87701dcd7b8fd,
+      type: 3}
+  - drawDeck: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
